@@ -1,9 +1,0 @@
-Name: JAYALAKSHMI S
-Reg.No: 24MCR042
-Dept: MCA
-Programming Language: JAVA
-Mobile Model: Redmi 8A Dual
-
-Domain: Full Stack Development
-
-Undergraduate Degree: BCA

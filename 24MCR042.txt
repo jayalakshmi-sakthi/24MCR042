@@ -4,4 +4,7 @@ Dept: MCA
 Programming Language: JAVA
 Mobile Model: Redmi 8A Dual
 
+Domain: Full Stack Development
+
+
 Undergraduate Degree: BCA
